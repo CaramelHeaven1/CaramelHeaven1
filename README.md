@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Caleb
+- 🔭 I’m currently working on Completing my Bachelors in Computer Science
+- 🌱 I’m currently learning Machine learning and Reverse Software Engineering 
+- ⚡ Fun fact: I played for my College esports team and we were one of the top competitors in the nation.
 <!--
 **CaramelHeaven1/CaramelHeaven1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
